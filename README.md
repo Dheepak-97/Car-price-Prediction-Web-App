@@ -1,5 +1,5 @@
 # Car-price-Prediction
-
-Used data from UsedCars dataset from craiglist.org(kaggle)
-
-Used Python to clean, visualize and analyze the data. Random Forest is used to predict the car price and achieved the R² score of 0.854.
+o	Analyzed the data of 550k rows and 22 features from Craiglist.org(Kaggle) to predict the price. 
+o	Used Python for Data Cleaning, Feature Engineering, Feature selection, and Data analysis.
+o	Implemented different algorithms like Linear Regression, Gradient boosting, Ridge regression, and Random Forest and attained the R² score of 0.849 with Random Forest.
+o	Deployed the model using Flask on Amazon web services.
